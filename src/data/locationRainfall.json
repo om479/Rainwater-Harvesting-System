@@ -1,0 +1,2558 @@
+[
+  {
+    "state": "telangana",
+    "name": "adilabad",
+    "displayName": "adilabad",
+    "annualRainfall": 976.9
+  },
+  {
+    "state": "tamil nadu",
+    "name": "adiramapattinam",
+    "displayName": "adiramapattinam",
+    "annualRainfall": 1131.2
+  },
+  {
+    "state": "tripura",
+    "name": "agartala",
+    "displayName": "agartala",
+    "annualRainfall": 2108.0
+  },
+  {
+    "state": "lakshadweep",
+    "name": "agatti",
+    "displayName": "agatti",
+    "annualRainfall": 1572.9
+  },
+  {
+    "state": "uttar pradesh",
+    "name": "agra",
+    "displayName": "agra",
+    "annualRainfall": 693.6
+  },
+  {
+    "state": "gujrat",
+    "name": "ahemdabad",
+    "displayName": "ahemdabad",
+    "annualRainfall": 783.6
+  },
+  {
+    "state": "maharashtra",
+    "name": "ahmednagar",
+    "displayName": "ahmednagar",
+    "annualRainfall": 608.1
+  },
+  {
+    "state": "rajasthan",
+    "name": "ajmer",
+    "displayName": "ajmer",
+    "annualRainfall": 571.4
+  },
+  {
+    "state": "maharashtra",
+    "name": "akola",
+    "displayName": "akola",
+    "annualRainfall": 783.4
+  },
+  {
+    "state": "kerela",
+    "name": "alappuzha",
+    "displayName": "alappuzha",
+    "annualRainfall": 2832.4
+  },
+  {
+    "state": "maharashtra",
+    "name": "alibag",
+    "displayName": "alibag",
+    "annualRainfall": 2408.8
+  },
+  {
+    "state": "uttar pradesh",
+    "name": "aligarh",
+    "displayName": "aligarh",
+    "annualRainfall": 712.8
+  },
+  {
+    "state": "west bengal",
+    "name": "alipurduar",
+    "displayName": "alipurduar",
+    "annualRainfall": 204.9
+  },
+  {
+    "state": "rajasthan",
+    "name": "alwar",
+    "displayName": "alwar",
+    "annualRainfall": 662.0
+  },
+  {
+    "state": "maharashtra",
+    "name": "amravati",
+    "displayName": "amravati",
+    "annualRainfall": 763.1
+  },
+  {
+    "state": "haryana",
+    "name": "ambala",
+    "displayName": "ambala",
+    "annualRainfall": 920.5
+  },
+  {
+    "state": "chattisgarh",
+    "name": "ambikapur",
+    "displayName": "ambikapur",
+    "annualRainfall": 1379.2
+  },
+  {
+    "state": "lakshadweep",
+    "name": "aminidivi",
+    "displayName": "aminidivi",
+    "annualRainfall": 1610.1
+  },
+  {
+    "state": "gujrat",
+    "name": "amreli",
+    "displayName": "amreli",
+    "annualRainfall": 615.0
+  },
+  {
+    "state": "punjab",
+    "name": "amritsar",
+    "displayName": "amritsar",
+    "annualRainfall": 689.2
+  },
+  {
+    "state": "andhra pradesh",
+    "name": "anantapur",
+    "displayName": "anantapur",
+    "annualRainfall": 601.9
+  },
+  {
+    "state": "odisha",
+    "name": "angul",
+    "displayName": "angul",
+    "annualRainfall": 1272.6
+  },
+  {
+    "state": "tamil nadu",
+    "name": "ariyalur",
+    "displayName": "ariyalur",
+    "annualRainfall": 708.2
+  },
+  {
+    "state": "andhra pradesh",
+    "name": "arogyavaram",
+    "displayName": "arogyavaram",
+    "annualRainfall": 816.6
+  },
+  {
+    "state": "west bengal",
+    "name": "asansol",
+    "displayName": "asansol",
+    "annualRainfall": 1333.0
+  },
+  {
+    "state": "maharashtra",
+    "name": "aurangabad",
+    "displayName": "aurangabad",
+    "annualRainfall": 811.7
+  },
+  {
+    "state": "karnataka",
+    "name": "bagalkot",
+    "displayName": "bagalkot",
+    "annualRainfall": 553.3
+  },
+  {
+    "state": "west bengal",
+    "name": "bagati",
+    "displayName": "bagati",
+    "annualRainfall": 1509.1
+  },
+  {
+    "state": "uttar pradesh",
+    "name": "bahraich",
+    "displayName": "bahraich",
+    "annualRainfall": 1198.6
+  },
+  {
+    "state": "odisha",
+    "name": "balasore",
+    "displayName": "balasore",
+    "annualRainfall": 1710.7
+  },
+  {
+    "state": "karnataka",
+    "name": "balehonnur",
+    "displayName": "balehonnur",
+    "annualRainfall": 2633.4
+  },
+  {
+    "state": "uttar pradesh",
+    "name": "ballia",
+    "displayName": "ballia",
+    "annualRainfall": 889.5
+  },
+  {
+    "state": "west bengal",
+    "name": "balurghat",
+    "displayName": "balurghat",
+    "annualRainfall": 1443.4
+  },
+  {
+    "state": "uttar pradesh",
+    "name": "banda",
+    "displayName": "banda",
+    "annualRainfall": 856.5
+  },
+  {
+    "state": "jammu & kashmir",
+    "name": "banihal",
+    "displayName": "banihal",
+    "annualRainfall": 1364.8
+  },
+  {
+    "state": "west bengal",
+    "name": "bankura",
+    "displayName": "bankura",
+    "annualRainfall": 1625.8
+  },
+  {
+    "state": "rajasthan",
+    "name": "banasthali",
+    "displayName": "banasthali",
+    "annualRainfall": 400.0
+  },
+  {
+    "state": "andhra pradesh",
+    "name": "bapatla",
+    "displayName": "bapatla",
+    "annualRainfall": 1028.5
+  },
+  {
+    "state": "uttar pradesh",
+    "name": "barabanki",
+    "displayName": "barabanki",
+    "annualRainfall": 891.4
+  },
+  {
+    "state": "maharashtra",
+    "name": "baramati",
+    "displayName": "baramati",
+    "annualRainfall": 524.2
+  },
+  {
+    "state": "meghalaya",
+    "name": "barapani",
+    "displayName": "barapani",
+    "annualRainfall": 2173.1
+  },
+  {
+    "state": "uttar pradesh",
+    "name": "bareilly",
+    "displayName": "bareilly",
+    "annualRainfall": 1186.5
+  },
+  {
+    "state": "odisha",
+    "name": "bargarh",
+    "displayName": "bargarh",
+    "annualRainfall": 1565.0
+  },
+  {
+    "state": "odisha",
+    "name": "baripada",
+    "displayName": "baripada",
+    "annualRainfall": 1716.5
+  },
+  {
+    "state": "rajasthan",
+    "name": "barmer",
+    "displayName": "barmer",
+    "annualRainfall": 304.4
+  },
+  {
+    "state": "west bengal",
+    "name": "basirhat",
+    "displayName": "basirhat",
+    "annualRainfall": 422.0
+  },
+  {
+    "state": "uttar pradesh",
+    "name": "basti",
+    "displayName": "basti",
+    "annualRainfall": 1167.5
+  },
+  {
+    "state": "jammu & kashmir",
+    "name": "batote",
+    "displayName": "batote",
+    "annualRainfall": 1529.0
+  },
+  {
+    "state": "maharashtra",
+    "name": "beed",
+    "displayName": "beed",
+    "annualRainfall": 705.0
+  },
+  {
+    "state": "karnataka",
+    "name": "belgaum",
+    "displayName": "belgaum",
+    "annualRainfall": 1329.0
+  },
+  {
+    "state": "karnataka",
+    "name": "bengaluru_",
+    "displayName": "bengaluru ",
+    "annualRainfall": 1077.6
+  },
+  {
+    "state": "karnataka",
+    "name": "bengaluru_(hal)",
+    "displayName": "bengaluru (HAL)",
+    "annualRainfall": 953.4
+  },
+  {
+    "state": NaN,
+    "name": "nan",
+    "displayName": NaN,
+    "annualRainfall": NaN
+  },
+  {
+    "state": "west bengal",
+    "name": "berhampore",
+    "displayName": "berhampore",
+    "annualRainfall": 1369.8
+  },
+  {
+    "state": "madhya pradesh",
+    "name": "betul",
+    "displayName": "betul",
+    "annualRainfall": 1220.1
+  },
+  {
+    "state": "jammu & kashmir",
+    "name": "bhaderwah",
+    "displayName": "bhaderwah",
+    "annualRainfall": 1227.9
+  },
+  {
+    "state": "telangana",
+    "name": "bhadrachalam",
+    "displayName": "bhadrachalam",
+    "annualRainfall": 1129.3
+  },
+  {
+    "state": "odisha",
+    "name": "bhadrak",
+    "displayName": "bhadrak",
+    "annualRainfall": 1627.0
+  },
+  {
+    "state": "bihar",
+    "name": "bhagalpur",
+    "displayName": "bhagalpur",
+    "annualRainfall": 1161.6
+  },
+  {
+    "state": "rajasthan",
+    "name": "bharatpur",
+    "displayName": "bharatpur",
+    "annualRainfall": 667.1
+  },
+  {
+    "state": "gujrat",
+    "name": "bhavnagar",
+    "displayName": "bhavnagar",
+    "annualRainfall": 718.0
+  },
+  {
+    "state": "odisha",
+    "name": "bhawanipatna",
+    "displayName": "bhawanipatna",
+    "annualRainfall": 1262.7
+  },
+  {
+    "state": "rajasthan",
+    "name": "bhilwara",
+    "displayName": "bhilwara",
+    "annualRainfall": 564.5
+  },
+  {
+    "state": "haryana",
+    "name": "bhiwani",
+    "displayName": "bhiwani",
+    "annualRainfall": 533.0
+  },
+  {
+    "state": "madhya pradesh",
+    "name": "bhopal",
+    "displayName": "bhopal",
+    "annualRainfall": 1101.0
+  },
+  {
+    "state": "odisha",
+    "name": "bhubaneshwar",
+    "displayName": "bhubaneshwar",
+    "annualRainfall": 1657.8
+  },
+  {
+    "state": "gujrat",
+    "name": "bhuj",
+    "displayName": "bhuj",
+    "annualRainfall": 370.2
+  },
+  {
+    "state": "himachal pradesh",
+    "name": "bhuntar",
+    "displayName": "bhuntar",
+    "annualRainfall": 926.9
+  },
+  {
+    "state": "karnataka",
+    "name": "bidar",
+    "displayName": "bidar",
+    "annualRainfall": 836.9
+  },
+  {
+    "state": "karnataka",
+    "name": "bijapur",
+    "displayName": "bijapur",
+    "annualRainfall": 647.4
+  },
+  {
+    "state": "rajasthan",
+    "name": "bikaner",
+    "displayName": "bikaner",
+    "annualRainfall": 285.9
+  },
+  {
+    "state": "chattisgrah",
+    "name": "bilaspur",
+    "displayName": "bilaspur",
+    "annualRainfall": 1208.1
+  },
+  {
+    "state": "odisha",
+    "name": "bolangir",
+    "displayName": "bolangir",
+    "annualRainfall": 1457.1
+  },
+  {
+    "state": "odisha",
+    "name": "boudh",
+    "displayName": "boudh",
+    "annualRainfall": 1510.3
+  },
+  {
+    "state": "maharashtra",
+    "name": "brahmapuri",
+    "displayName": "brahmapuri",
+    "annualRainfall": 1299.4
+  },
+  {
+    "state": "uttar pradesh",
+    "name": "bulandshahar",
+    "displayName": "bulandshahar",
+    "annualRainfall": 843.0
+  },
+  {
+    "state": "maharashtra",
+    "name": "buldhana",
+    "displayName": "buldhana",
+    "annualRainfall": 877.2
+  },
+  {
+    "state": "rajasthan",
+    "name": "bundi",
+    "displayName": "bundi",
+    "annualRainfall": 736.8
+  },
+  {
+    "state": "west bengal",
+    "name": "burdwan",
+    "displayName": "burdwan",
+    "annualRainfall": 1362.4
+  },
+  {
+    "state": "west bengal",
+    "name": "canning",
+    "displayName": "canning",
+    "annualRainfall": 1869.0
+  },
+  {
+    "state": "andhra pradesh",
+    "name": "car_nicobar",
+    "displayName": "car nicobar",
+    "annualRainfall": 2579.4
+  },
+  {
+    "state": "jharkhand",
+    "name": "chaibasa",
+    "displayName": "chaibasa",
+    "annualRainfall": 1181.0
+  },
+  {
+    "state": "odisha",
+    "name": "chandabali",
+    "displayName": "chandabali",
+    "annualRainfall": 1628.7
+  },
+  {
+    "state": "chandigarh",
+    "name": "chandigarh",
+    "displayName": "chandigarh",
+    "annualRainfall": 1038.4
+  },
+  {
+    "state": "maharashtra",
+    "name": "chandrapur",
+    "displayName": "chandrapur",
+    "annualRainfall": 1255.8
+  },
+  {
+    "state": "assam",
+    "name": "chaparmukh",
+    "displayName": "chaparmukh",
+    "annualRainfall": 1590.4
+  },
+  {
+    "state": "bihar",
+    "name": "chapra",
+    "displayName": "chapra",
+    "annualRainfall": 1029.3
+  },
+  {
+    "state": "odisha",
+    "name": "chatrapur",
+    "displayName": "chatrapur",
+    "annualRainfall": 1503.0
+  },
+  {
+    "state": "tamil nadu",
+    "name": "chennai(meenambakkam)",
+    "displayName": "chennai(meenambakkam)",
+    "annualRainfall": 1408.4
+  },
+  {
+    "state": "tamil nadu",
+    "name": "chennai(nungambakkam)",
+    "displayName": "chennai(nungambakkam)",
+    "annualRainfall": 1376.8
+  },
+  {
+    "state": "madhya pradesh",
+    "name": "chhindwara",
+    "displayName": "chhindwara",
+    "annualRainfall": 986.6
+  },
+  {
+    "state": "karnataka",
+    "name": "chickmagalur",
+    "displayName": "chickmagalur",
+    "annualRainfall": 936.9
+  },
+  {
+    "state": "karnataka",
+    "name": "chintamani",
+    "displayName": "chintamani",
+    "annualRainfall": 810.7
+  },
+  {
+    "state": "karnataka",
+    "name": "chitradurga",
+    "displayName": "chitradurga",
+    "annualRainfall": 710.8
+  },
+  {
+    "state": "rajasthan",
+    "name": "chittorgarh",
+    "displayName": "chittorgarh",
+    "annualRainfall": 822.1
+  },
+  {
+    "state": "uttar pradesh",
+    "name": "churk",
+    "displayName": "churk",
+    "annualRainfall": 1113.7
+  },
+  {
+    "state": "rajasthan",
+    "name": "churu",
+    "displayName": "churu",
+    "annualRainfall": 426.2
+  },
+  {
+    "state": "tamil nadu",
+    "name": "coimbatore",
+    "displayName": "coimbatore",
+    "annualRainfall": 618.5
+  },
+  {
+    "state": "west bengal",
+    "name": "contai",
+    "displayName": "contai",
+    "annualRainfall": 1768.6
+  },
+  {
+    "state": "west bengal",
+    "name": "cooch_behar",
+    "displayName": "cooch behar",
+    "annualRainfall": 3327.4
+  },
+  {
+    "state": "tamil nadu",
+    "name": "coonor",
+    "displayName": "coonor",
+    "annualRainfall": 1667.7
+  },
+  {
+    "state": "tamil nadu",
+    "name": "cuddalore",
+    "displayName": "cuddalore",
+    "annualRainfall": 1369.6
+  },
+  {
+    "state": "odisha",
+    "name": "cuttak",
+    "displayName": "cuttak",
+    "annualRainfall": 1598.0
+  },
+  {
+    "state": "goa",
+    "name": "dabolim",
+    "displayName": "dabolim",
+    "annualRainfall": 108.3
+  },
+  {
+    "state": "maharashtra",
+    "name": "dahanu",
+    "displayName": "dahanu",
+    "annualRainfall": 2134.6
+  },
+  {
+    "state": "jharkhand",
+    "name": "daltonganj",
+    "displayName": "daltonganj",
+    "annualRainfall": 1086.0
+  },
+  {
+    "state": "madhya pradesh",
+    "name": "damoh",
+    "displayName": "damoh",
+    "annualRainfall": 1184.4
+  },
+  {
+    "state": "bihar",
+    "name": "darbhanga",
+    "displayName": "darbhanga",
+    "annualRainfall": 1026.5
+  },
+  {
+    "state": "odisha",
+    "name": "daringabadi",
+    "displayName": "daringabadi",
+    "annualRainfall": null
+  },
+  {
+    "state": "west bengal",
+    "name": "darjeeling",
+    "displayName": "darjeeling",
+    "annualRainfall": 2373.3
+  },
+  {
+    "state": "karnataka",
+    "name": "davangere",
+    "displayName": "davangere",
+    "annualRainfall": 753.7
+  },
+  {
+    "state": "gujrat",
+    "name": "deesa",
+    "displayName": "deesa",
+    "annualRainfall": 670.7
+  },
+  {
+    "state": "uttrakhand",
+    "name": "dehradun",
+    "displayName": "dehradun",
+    "annualRainfall": 2161.5
+  },
+  {
+    "state": "bihar",
+    "name": "dehri",
+    "displayName": "dehri",
+    "annualRainfall": 1070.1
+  },
+  {
+    "state": "odisha",
+    "name": "deogarh",
+    "displayName": "deogarh",
+    "annualRainfall": 1582.0
+  },
+  {
+    "state": "madhya pradesh",
+    "name": "dhar",
+    "displayName": "dhar",
+    "annualRainfall": 888.7
+  },
+  {
+    "state": "gujrat",
+    "name": "dharampur",
+    "displayName": "dharampur",
+    "annualRainfall": 1534.0
+  },
+  {
+    "state": "himachal pradesh",
+    "name": "dharamshala",
+    "displayName": "dharamshala",
+    "annualRainfall": 3027.3
+  },
+  {
+    "state": "madhya pradesh",
+    "name": "dharmapuri",
+    "displayName": "dharmapuri",
+    "annualRainfall": 942.0
+  },
+  {
+    "state": "karnataka",
+    "name": "dharwad",
+    "displayName": "dharwad",
+    "annualRainfall": 883.9
+  },
+  {
+    "state": "odisha",
+    "name": "dhenkanal",
+    "displayName": "dhenkanal",
+    "annualRainfall": 1426.6
+  },
+  {
+    "state": "assam",
+    "name": "dhubri",
+    "displayName": "dhubri",
+    "annualRainfall": 2309.6
+  },
+  {
+    "state": "west bengal",
+    "name": "diamond_harbour",
+    "displayName": "diamond harbour",
+    "annualRainfall": 1739.0
+  },
+  {
+    "state": "west bengal",
+    "name": "digha",
+    "displayName": "digha",
+    "annualRainfall": 1759.6
+  },
+  {
+    "state": "diu",
+    "name": "diu",
+    "displayName": "diu",
+    "annualRainfall": 848.1
+  },
+  {
+    "state": "chattisgrah",
+    "name": "durg",
+    "displayName": "durg",
+    "annualRainfall": 1335.0
+  },
+  {
+    "state": "gujrat",
+    "name": "dwarka",
+    "displayName": "dwarka",
+    "annualRainfall": 490.8
+  },
+  {
+    "state": "tamil nadu",
+    "name": "erode",
+    "displayName": "erode",
+    "annualRainfall": 606.5
+  },
+  {
+    "state": "uttar pradesh",
+    "name": "etawah",
+    "displayName": "etawah",
+    "annualRainfall": 643.0
+  },
+  {
+    "state": "uttar pradesh",
+    "name": "fatehgarh_(farrukhabad)",
+    "displayName": "fatehgarh (farrukhabad)",
+    "annualRainfall": 631.2
+  },
+  {
+    "state": "uttar pradesh",
+    "name": "fatehpur",
+    "displayName": "fatehpur",
+    "annualRainfall": 778.6
+  },
+  {
+    "state": "bihar",
+    "name": "forbesganj",
+    "displayName": "forbesganj",
+    "annualRainfall": 1573.2
+  },
+  {
+    "state": "uttar pradesh",
+    "name": "fursatganj",
+    "displayName": "fursatganj",
+    "annualRainfall": 877.0
+  },
+  {
+    "state": "karnataka",
+    "name": "gadag",
+    "displayName": "gadag",
+    "annualRainfall": 673.8
+  },
+  {
+    "state": "maharashtra",
+    "name": "gadchiroli",
+    "displayName": "gadchiroli",
+    "annualRainfall": 1325.0
+  },
+  {
+    "state": "gujrat",
+    "name": "gandhinagar",
+    "displayName": "gandhinagar",
+    "annualRainfall": 773.6
+  },
+  {
+    "state": "sikkim",
+    "name": "gangtok",
+    "displayName": "gangtok",
+    "annualRainfall": 3574.0
+  },
+  {
+    "state": "andhra pradesh",
+    "name": "gannavaram",
+    "displayName": "gannavaram",
+    "annualRainfall": 1032.0
+  },
+  {
+    "state": "bihar",
+    "name": "gaya",
+    "displayName": "gaya",
+    "annualRainfall": 1025.5
+  },
+  {
+    "state": "uttar pradesh",
+    "name": "gazipur",
+    "displayName": "gazipur",
+    "annualRainfall": 983.7
+  },
+  {
+    "state": "assam",
+    "name": "goalpara",
+    "displayName": "goalpara",
+    "annualRainfall": 2245.3
+  },
+  {
+    "state": "assam",
+    "name": "golaghat",
+    "displayName": "golaghat",
+    "annualRainfall": 1518.5
+  },
+  {
+    "state": "maharashtra",
+    "name": "gondia",
+    "displayName": "gondia",
+    "annualRainfall": 1253.9
+  },
+  {
+    "state": "odisha",
+    "name": "gopalpur",
+    "displayName": "gopalpur",
+    "annualRainfall": 1146.2
+  },
+  {
+    "state": "uttar pradesh",
+    "name": "gorakhpur",
+    "displayName": "gorakhpur",
+    "annualRainfall": 1240.9
+  },
+  {
+    "state": "karnataka",
+    "name": "gulbarga",
+    "displayName": "gulbarga",
+    "annualRainfall": 757.4
+  },
+  {
+    "state": "jammu & kashmir",
+    "name": "gulmarg",
+    "displayName": "gulmarg",
+    "annualRainfall": 1449.2
+  },
+  {
+    "state": "madhya pradesh",
+    "name": "guna",
+    "displayName": "guna",
+    "annualRainfall": 1008.5
+  },
+  {
+    "state": "haryana",
+    "name": "gurugram",
+    "displayName": "gurugram",
+    "annualRainfall": 648.6
+  },
+  {
+    "state": "assam",
+    "name": "guwahati",
+    "displayName": "guwahati",
+    "annualRainfall": 1695.3
+  },
+  {
+    "state": "madhya pradesh",
+    "name": "gwalior",
+    "displayName": "gwalior",
+    "annualRainfall": 790.4
+  },
+  {
+    "state": "west bengal",
+    "name": "haldia",
+    "displayName": "haldia",
+    "annualRainfall": 1868.5
+  },
+  {
+    "state": "assam",
+    "name": "haflong",
+    "displayName": "haflong",
+    "annualRainfall": 1160.0
+  },
+  {
+    "state": "himachal pradesh",
+    "name": "hamirpur",
+    "displayName": "hamirpur",
+    "annualRainfall": 563.7
+  },
+  {
+    "state": "telangana",
+    "name": "hanamkonda",
+    "displayName": "hanamkonda",
+    "annualRainfall": 518.5
+  },
+  {
+    "state": "uttar pradesh",
+    "name": "hardoi",
+    "displayName": "hardoi",
+    "annualRainfall": 848.2
+  },
+  {
+    "state": "maharashtra",
+    "name": "harnai",
+    "displayName": "harnai",
+    "annualRainfall": 2915.4
+  },
+  {
+    "state": "karnataka",
+    "name": "hassan",
+    "displayName": "hassan",
+    "annualRainfall": 887.7
+  },
+  {
+    "state": "karnataka",
+    "name": "haveri",
+    "displayName": "haveri",
+    "annualRainfall": 822.1
+  },
+  {
+    "state": "odisha",
+    "name": "hirakud",
+    "displayName": "hirakud",
+    "annualRainfall": 1462.0
+  },
+  {
+    "state": "haryana",
+    "name": "hisar",
+    "displayName": "hisar",
+    "annualRainfall": 494.0
+  },
+  {
+    "state": "karnataka",
+    "name": "honavar",
+    "displayName": "honavar",
+    "annualRainfall": 3732.4
+  },
+  {
+    "state": "madhya pradesh",
+    "name": "hoshangabad",
+    "displayName": "hoshangabad",
+    "annualRainfall": 1314.5
+  },
+  {
+    "state": "west bengal",
+    "name": "howrah",
+    "displayName": "howrah",
+    "annualRainfall": 1656.0
+  },
+  {
+    "state": "andaman & nicobar",
+    "name": "hutbay",
+    "displayName": "hutbay",
+    "annualRainfall": 2660.8
+  },
+  {
+    "state": "telangana",
+    "name": "hyderabad",
+    "displayName": "hyderabad",
+    "annualRainfall": 859.6
+  },
+  {
+    "state": "manipur",
+    "name": "imphal",
+    "displayName": "imphal",
+    "annualRainfall": 1381.0
+  },
+  {
+    "state": "madhya pradesh",
+    "name": "indore",
+    "displayName": "indore",
+    "annualRainfall": 955.1
+  },
+  {
+    "state": "arunachal pradesh",
+    "name": "itanagar",
+    "displayName": "itanagar",
+    "annualRainfall": 3146.2
+  },
+  {
+    "state": "madhya pradesh",
+    "name": "jabalpur",
+    "displayName": "jabalpur",
+    "annualRainfall": 1367.8
+  },
+  {
+    "state": "odisha",
+    "name": "jagatsinghpur",
+    "displayName": "jagatsinghpur",
+    "annualRainfall": 1500.0
+  },
+  {
+    "state": "chattisgarh",
+    "name": "jagdalpur",
+    "displayName": "jagdalpur",
+    "annualRainfall": 1508.0
+  },
+  {
+    "state": "rajasthan",
+    "name": "jaipur",
+    "displayName": "jaipur",
+    "annualRainfall": 600.3
+  },
+  {
+    "state": "rajasthan",
+    "name": "jaisalmer",
+    "displayName": "jaisalmer",
+    "annualRainfall": 236.9
+  },
+  {
+    "state": "odisha",
+    "name": "jajpur",
+    "displayName": "jajpur",
+    "annualRainfall": 1800.0
+  },
+  {
+    "state": "maharashtra",
+    "name": "jalgaon",
+    "displayName": "jalgaon",
+    "annualRainfall": 759.0
+  },
+  {
+    "state": "maharashtra",
+    "name": "jalna",
+    "displayName": "jalna",
+    "annualRainfall": 725.8
+  },
+  {
+    "state": "west bengal",
+    "name": "jalpaiguri",
+    "displayName": "jalpaiguri",
+    "annualRainfall": 3356.9
+  },
+  {
+    "state": "jammu & kashmir",
+    "name": "jammu",
+    "displayName": "jammu",
+    "annualRainfall": 1401.9
+  },
+  {
+    "state": "jharkhand",
+    "name": "jamshedpur",
+    "displayName": "jamshedpur",
+    "annualRainfall": 1210.5
+  },
+  {
+    "state": "jharkhand",
+    "name": "jamshedpur_city",
+    "displayName": "jamshedpur city",
+    "annualRainfall": 1421.1
+  },
+  {
+    "state": "rajasthan",
+    "name": "jawai_bandh",
+    "displayName": "jawai bandh",
+    "annualRainfall": 505.3
+  },
+  {
+    "state": "maharashtra",
+    "name": "jeur",
+    "displayName": "jeur",
+    "annualRainfall": 2900.0
+  },
+  {
+    "state": "uttar pradesh",
+    "name": "jhansi",
+    "displayName": "jhansi",
+    "annualRainfall": 831.2
+  },
+  {
+    "state": "west bengal",
+    "name": "jhargram",
+    "displayName": "jhargram",
+    "annualRainfall": 1547.0
+  },
+  {
+    "state": "odisha",
+    "name": "jharsuguda",
+    "displayName": "jharsuguda",
+    "annualRainfall": 1475.6
+  },
+  {
+    "state": "rajasthan",
+    "name": "jodhpur",
+    "displayName": "jodhpur",
+    "annualRainfall": 370.2
+  },
+  {
+    "state": "uttrakhand",
+    "name": "jolly_grant",
+    "displayName": "jolly grant",
+    "annualRainfall": 1160.0
+  },
+  {
+    "state": "assam",
+    "name": "jorhat",
+    "displayName": "jorhat",
+    "annualRainfall": 1921.7
+  },
+  {
+    "state": "andhra pradesh",
+    "name": "kadappa",
+    "displayName": "kadappa",
+    "annualRainfall": 758.7
+  },
+  {
+    "state": "tripura",
+    "name": "kailashahar",
+    "displayName": "kailashahar",
+    "annualRainfall": 2662.0
+  },
+  {
+    "state": "andhra pradesh",
+    "name": "kakinada",
+    "displayName": "kakinada",
+    "annualRainfall": 1126.8
+  },
+  {
+    "state": "west bengal",
+    "name": "kalimpong",
+    "displayName": "kalimpong",
+    "annualRainfall": 2141.3
+  },
+  {
+    "state": "andhra pradesh",
+    "name": "kalingapatnam",
+    "displayName": "kalingapatnam",
+    "annualRainfall": 1116.5
+  },
+  {
+    "state": "himachal pradesh",
+    "name": "kalpa",
+    "displayName": "kalpa",
+    "annualRainfall": 761.1
+  },
+  {
+    "state": "gujrat",
+    "name": "kandla",
+    "displayName": "kandla",
+    "annualRainfall": 501.7
+  },
+  {
+    "state": "himachal pradesh",
+    "name": "kangra",
+    "displayName": "kangra",
+    "annualRainfall": 2267.4
+  },
+  {
+    "state": "kerela",
+    "name": "kannur",
+    "displayName": "kannur",
+    "annualRainfall": 3364.9
+  },
+  {
+    "state": "uttar pradesh",
+    "name": "kanpur",
+    "displayName": "kanpur",
+    "annualRainfall": 815.9
+  },
+  {
+    "state": "tamil nadu",
+    "name": "kanyakumari",
+    "displayName": "kanyakumari",
+    "annualRainfall": 780.6
+  },
+  {
+    "state": "tamil nadu",
+    "name": "karaikal",
+    "displayName": "karaikal",
+    "annualRainfall": 1467.9
+  },
+  {
+    "state": "haryana",
+    "name": "karnal",
+    "displayName": "karnal",
+    "annualRainfall": 695.4
+  },
+  {
+    "state": "tamil nadu",
+    "name": "karur_paramathi",
+    "displayName": "karur paramathi",
+    "annualRainfall": 625.4
+  },
+  {
+    "state": "karnataka",
+    "name": "karwar",
+    "displayName": "karwar",
+    "annualRainfall": 3279.1
+  },
+  {
+    "state": "jammu & kashmir",
+    "name": "kathua",
+    "displayName": "kathua",
+    "annualRainfall": 1415.7
+  },
+  {
+    "state": "jammu & kashmir",
+    "name": "katra",
+    "displayName": "katra",
+    "annualRainfall": 2151.1
+  },
+  {
+    "state": "andhra pradesh",
+    "name": "kavali",
+    "displayName": "kavali",
+    "annualRainfall": 1144.2
+  },
+  {
+    "state": "odisha",
+    "name": "kendrapada",
+    "displayName": "kendrapada",
+    "annualRainfall": 1501.3
+  },
+  {
+    "state": "odisha",
+    "name": "keonjhar",
+    "displayName": "keonjhar",
+    "annualRainfall": 1419.4
+  },
+  {
+    "state": "gujrat",
+    "name": "keshod",
+    "displayName": "keshod",
+    "annualRainfall": 884.1
+  },
+  {
+    "state": "madhya pradesh",
+    "name": "khajuraho",
+    "displayName": "khajuraho",
+    "annualRainfall": 1090.3
+  },
+  {
+    "state": "telangana",
+    "name": "khammam",
+    "displayName": "khammam",
+    "annualRainfall": 899.7
+  },
+  {
+    "state": "madhya pradesh",
+    "name": "khandwa",
+    "displayName": "khandwa",
+    "annualRainfall": 911.3
+  },
+  {
+    "state": "madhya pradesh",
+    "name": "khargone",
+    "displayName": "khargone",
+    "annualRainfall": 391.5
+  },
+  {
+    "state": "uttrakhand",
+    "name": "khatima",
+    "displayName": "khatima",
+    "annualRainfall": 1345.0
+  },
+  {
+    "state": "odisha",
+    "name": "khordha",
+    "displayName": "khordha",
+    "annualRainfall": 1400.0
+  },
+  {
+    "state": "kerela",
+    "name": "kochi",
+    "displayName": "kochi",
+    "annualRainfall": 2953.5
+  },
+  {
+    "state": "tamil nadu",
+    "name": "kodaikanal",
+    "displayName": "kodaikanal",
+    "annualRainfall": 1578.7
+  },
+  {
+    "state": "nagaland",
+    "name": "kohima",
+    "displayName": "kohima",
+    "annualRainfall": 1727.6
+  },
+  {
+    "state": "jammu & kashmir",
+    "name": "kokernag",
+    "displayName": "kokernag",
+    "annualRainfall": 1028.0
+  },
+  {
+    "state": "maharashtra",
+    "name": "kolhapur",
+    "displayName": "kolhapur",
+    "annualRainfall": 1077.5
+  },
+  {
+    "state": "west bengal",
+    "name": "kolkata(alipore)",
+    "displayName": "kolkata(alipore)",
+    "annualRainfall": 1813.3
+  },
+  {
+    "state": "west bengal",
+    "name": "kolkata(dum_dum)",
+    "displayName": "kolkata(dum dum)",
+    "annualRainfall": 1711.5
+  },
+  {
+    "state": "jammu & kashmir",
+    "name": "konibal",
+    "displayName": "konibal",
+    "annualRainfall": 11800.0
+  },
+  {
+    "state": "karnataka",
+    "name": "koppal",
+    "displayName": "koppal",
+    "annualRainfall": 681.1
+  },
+  {
+    "state": "odisha",
+    "name": "koraput",
+    "displayName": "koraput",
+    "annualRainfall": 1662.8
+  },
+  {
+    "state": "rajasthan",
+    "name": "kota",
+    "displayName": "kota",
+    "annualRainfall": 816.2
+  },
+  {
+    "state": "kerela",
+    "name": "kottayam",
+    "displayName": "kottayam",
+    "annualRainfall": 2893.8
+  },
+  {
+    "state": "tamil nadu",
+    "name": "kovilankulam",
+    "displayName": "kovilankulam",
+    "annualRainfall": null
+  },
+  {
+    "state": "kerela",
+    "name": "kozhikode",
+    "displayName": "kozhikode",
+    "annualRainfall": 3011.9
+  },
+  {
+    "state": "west bengal",
+    "name": "krishnagar",
+    "displayName": "krishnagar",
+    "annualRainfall": 1130.0
+  },
+  {
+    "state": "jammu & kashmir",
+    "name": "kupwara",
+    "displayName": "kupwara",
+    "annualRainfall": 1046.5
+  },
+  {
+    "state": "andhra pradesh",
+    "name": "kurnool",
+    "displayName": "kurnool",
+    "annualRainfall": 733.7
+  },
+  {
+    "state": "uttar pradesh",
+    "name": "lakhimpur_kheri",
+    "displayName": "lakhimpur kheri",
+    "annualRainfall": 819.3
+  },
+  {
+    "state": "leh",
+    "name": "leh",
+    "displayName": "leh",
+    "annualRainfall": 34.8
+  },
+  {
+    "state": "mizoram",
+    "name": "lengpui",
+    "displayName": "lengpui",
+    "annualRainfall": 2290.9
+  },
+  {
+    "state": "andaman & nicobar",
+    "name": "long_island",
+    "displayName": "long island",
+    "annualRainfall": 2604.6
+  },
+  {
+    "state": "uttar pradesh",
+    "name": "lucknow",
+    "displayName": "lucknow",
+    "annualRainfall": 861.4
+  },
+  {
+    "state": "punjab",
+    "name": "ludhiana",
+    "displayName": "ludhiana",
+    "annualRainfall": 791.1
+  },
+  {
+    "state": "assam",
+    "name": "lumding",
+    "displayName": "lumding",
+    "annualRainfall": 1156.2
+  },
+  {
+    "state": "andhra pradesh",
+    "name": "machilipatnam",
+    "displayName": "machilipatnam",
+    "annualRainfall": 1074.9
+  },
+  {
+    "state": "tamil nadu",
+    "name": "madurai",
+    "displayName": "madurai",
+    "annualRainfall": 672.2
+  },
+  {
+    "state": "tamil nadu",
+    "name": "madurai(a)",
+    "displayName": "madurai(A)",
+    "annualRainfall": 843.3
+  },
+  {
+    "state": "maharashtra",
+    "name": "mahabaleshwar",
+    "displayName": "mahabaleshwar",
+    "annualRainfall": 5882.6
+  },
+  {
+    "state": "telangana",
+    "name": "mahabubnagar",
+    "displayName": "mahabubnagar",
+    "annualRainfall": 774.6
+  },
+  {
+    "state": "gujrat",
+    "name": "mahuva",
+    "displayName": "mahuva",
+    "annualRainfall": 718.4
+  },
+  {
+    "state": "madhya pradesh",
+    "name": "malanjkhand",
+    "displayName": "malanjkhand",
+    "annualRainfall": 1292.3
+  },
+  {
+    "state": "west bengal",
+    "name": "malda",
+    "displayName": "malda",
+    "annualRainfall": 1514.9
+  },
+  {
+    "state": "maharashtra",
+    "name": "malegaon",
+    "displayName": "malegaon",
+    "annualRainfall": 593.8
+  },
+  {
+    "state": "odisha",
+    "name": "malkangiri",
+    "displayName": "malkangiri",
+    "annualRainfall": 241.6
+  },
+  {
+    "state": "himachal pradesh",
+    "name": "manali",
+    "displayName": "manali",
+    "annualRainfall": 1239.3
+  },
+  {
+    "state": "himachal pradesh",
+    "name": "mandi",
+    "displayName": "mandi",
+    "annualRainfall": 1098.2
+  },
+  {
+    "state": "madhya pradesh",
+    "name": "mandla",
+    "displayName": "mandla",
+    "annualRainfall": 1200.6
+  },
+  {
+    "state": "karnataka",
+    "name": "mandya",
+    "displayName": "mandya",
+    "annualRainfall": 732.8
+  },
+  {
+    "state": "karnataka",
+    "name": "manglore(bajpe)",
+    "displayName": "manglore(bajpe)",
+    "annualRainfall": 3747.6
+  },
+  {
+    "state": "karnataka",
+    "name": "manglore(panambur)",
+    "displayName": "manglore(panambur)",
+    "annualRainfall": 3601.4
+  },
+  {
+    "state": "maharashtra",
+    "name": "matheran",
+    "displayName": "matheran",
+    "annualRainfall": 2071.0
+  },
+  {
+    "state": "uttar pradesh",
+    "name": "mathura",
+    "displayName": "mathura",
+    "annualRainfall": 745.0
+  },
+  {
+    "state": "meghalaya",
+    "name": "mawsynram",
+    "displayName": "mawsynram",
+    "annualRainfall": 11872.0
+  },
+  {
+    "state": "andaman & nicobar",
+    "name": "mayabunder",
+    "displayName": "mayabunder",
+    "annualRainfall": 3185.5
+  },
+  {
+    "state": "assam",
+    "name": "mazbat",
+    "displayName": "mazbat",
+    "annualRainfall": 2116.5
+  },
+  {
+    "state": "telangana",
+    "name": "medak",
+    "displayName": "medak",
+    "annualRainfall": 1006.1
+  },
+  {
+    "state": "west bengal",
+    "name": "mednapur",
+    "displayName": "mednapur",
+    "annualRainfall": 1608.5
+  },
+  {
+    "state": "uttar pradesh",
+    "name": "meerut",
+    "displayName": "meerut",
+    "annualRainfall": 788.9
+  },
+  {
+    "state": "lakshadweep",
+    "name": "minicoy",
+    "displayName": "minicoy",
+    "annualRainfall": 1634.7
+  },
+  {
+    "state": "assam",
+    "name": "mohanbari",
+    "displayName": "mohanbari",
+    "annualRainfall": 2518.3
+  },
+  {
+    "state": "uttar pradesh",
+    "name": "moradabad",
+    "displayName": "moradabad",
+    "annualRainfall": 1043.6
+  },
+  {
+    "state": "goa",
+    "name": "mormugao",
+    "displayName": "mormugao",
+    "annualRainfall": 2799.5
+  },
+  {
+    "state": "rajasthan",
+    "name": "mount_abu",
+    "displayName": "mount abu",
+    "annualRainfall": 1389.3
+  },
+  {
+    "state": "uttrakhand",
+    "name": "mukteshwar",
+    "displayName": "mukteshwar",
+    "annualRainfall": 1286.0
+  },
+  {
+    "state": "maharashtra",
+    "name": "mumbai_(colaba)",
+    "displayName": "mumbai (colaba)",
+    "annualRainfall": 2213.4
+  },
+  {
+    "state": "maharashtra",
+    "name": "mumbai_(santacruz)",
+    "displayName": "mumbai (santacruz)",
+    "annualRainfall": 2502.3
+  },
+  {
+    "state": "uttrakhand",
+    "name": "mussoorie",
+    "displayName": "mussoorie",
+    "annualRainfall": 1779.0
+  },
+  {
+    "state": "uttar pradesh",
+    "name": "muzaffar_nagar",
+    "displayName": "muzaffar nagar",
+    "annualRainfall": 872.5
+  },
+  {
+    "state": "bihar",
+    "name": "muzaffarpur",
+    "displayName": "muzaffarpur",
+    "annualRainfall": 1089.2
+  },
+  {
+    "state": "karnataka",
+    "name": "mysore",
+    "displayName": "mysore",
+    "annualRainfall": 831.5
+  },
+  {
+    "state": "odisha",
+    "name": "nabarangpur",
+    "displayName": "nabarangpur",
+    "annualRainfall": 161.4
+  },
+  {
+    "state": "tamil nadu",
+    "name": "nagapattinam",
+    "displayName": "nagapattinam",
+    "annualRainfall": 1349.1
+  },
+  {
+    "state": "maharashtra",
+    "name": "nagpur",
+    "displayName": "nagpur",
+    "annualRainfall": 1151.2
+  },
+  {
+    "state": "himachal pradesh",
+    "name": "nahan",
+    "displayName": "nahan",
+    "annualRainfall": 1733.1
+  },
+  {
+    "state": "uttar pradesh",
+    "name": "najibabad",
+    "displayName": "najibabad",
+    "annualRainfall": 926.6
+  },
+  {
+    "state": "telangana",
+    "name": "nalgonda",
+    "displayName": "nalgonda",
+    "annualRainfall": 806.5
+  },
+  {
+    "state": "gujrat",
+    "name": "naliya",
+    "displayName": "naliya",
+    "annualRainfall": 388.4
+  },
+  {
+    "state": "andaman & nicobar",
+    "name": "nancowry",
+    "displayName": "nancowry",
+    "annualRainfall": 2411.7
+  },
+  {
+    "state": "maharashtra",
+    "name": "nanded",
+    "displayName": "nanded",
+    "annualRainfall": 823.5
+  },
+  {
+    "state": "andhra pradesh",
+    "name": "nandigama",
+    "displayName": "nandigama",
+    "annualRainfall": 955.0
+  },
+  {
+    "state": "andhra pradesh",
+    "name": "nandyal",
+    "displayName": "nandyal",
+    "annualRainfall": 775.2
+  },
+  {
+    "state": "haryana",
+    "name": "narnaul",
+    "displayName": "narnaul",
+    "annualRainfall": 491.0
+  },
+  {
+    "state": "andhra pradesh",
+    "name": "narsapur",
+    "displayName": "narsapur",
+    "annualRainfall": 1169.0
+  },
+  {
+    "state": "madhya pradesh",
+    "name": "narsinghpur",
+    "displayName": "narsinghpur",
+    "annualRainfall": 1057.9
+  },
+  {
+    "state": "maharashtra",
+    "name": "nashik",
+    "displayName": "nashik",
+    "annualRainfall": 845.9
+  },
+  {
+    "state": "odisha",
+    "name": "nayagarh",
+    "displayName": "nayagarh",
+    "annualRainfall": 129.0
+  },
+  {
+    "state": "andhra pradesh",
+    "name": "nellore",
+    "displayName": "nellore",
+    "annualRainfall": 1067.4
+  },
+  {
+    "state": "delhi",
+    "name": "new_delhi_(ayanagar)",
+    "displayName": "new delhi (ayanagar)",
+    "annualRainfall": 671.0
+  },
+  {
+    "state": "delhi",
+    "name": "new_delhi_(palam)",
+    "displayName": "new delhi (palam)",
+    "annualRainfall": 692.0
+  },
+  {
+    "state": "delhi",
+    "name": "new_delhi_(ridge)",
+    "displayName": "new delhi (ridge)",
+    "annualRainfall": 699.0
+  },
+  {
+    "state": "delhi",
+    "name": "new_delhi_(safdarjung)",
+    "displayName": "new delhi (safdarjung)",
+    "annualRainfall": 758.9
+  },
+  {
+    "state": "gujrat",
+    "name": "new_kandla",
+    "displayName": "new kandla",
+    "annualRainfall": 458.6
+  },
+  {
+    "state": "telangana",
+    "name": "nizamabad",
+    "displayName": "nizamabad",
+    "annualRainfall": 958.3
+  },
+  {
+    "state": "assam",
+    "name": "north_lakhimpur",
+    "displayName": "north lakhimpur",
+    "annualRainfall": 3205.3
+  },
+  {
+    "state": "assam",
+    "name": "nowgong",
+    "displayName": "nowgong",
+    "annualRainfall": 1020.0
+  },
+  {
+    "state": "odisha",
+    "name": "nuapada",
+    "displayName": "nuapada",
+    "annualRainfall": 1378.2
+  },
+  {
+    "state": "gujrat",
+    "name": "okha",
+    "displayName": "okha",
+    "annualRainfall": 512.6
+  },
+  {
+    "state": "andhra pradesh",
+    "name": "ongole",
+    "displayName": "ongole",
+    "annualRainfall": 923.5
+  },
+  {
+    "state": "uttar pradesh",
+    "name": "orai",
+    "displayName": "orai",
+    "annualRainfall": 513.6
+  },
+  {
+    "state": "maharashtra",
+    "name": "osmanabad",
+    "displayName": "osmanabad",
+    "annualRainfall": 829.2
+  },
+  {
+    "state": "madhya pradesh",
+    "name": "pachmarhi",
+    "displayName": "pachmarhi",
+    "annualRainfall": 1581.7
+  },
+  {
+    "state": "jammu & kashmir",
+    "name": "pahalgam",
+    "displayName": "pahalgam",
+    "annualRainfall": 1273.5
+  },
+  {
+    "state": "sikkim",
+    "name": "pakyong",
+    "displayName": "pakyong",
+    "annualRainfall": null
+  },
+  {
+    "state": "kerela",
+    "name": "palakkad",
+    "displayName": "palakkad",
+    "annualRainfall": 1951.0
+  },
+  {
+    "state": "tamil nadu",
+    "name": "palayamkottai",
+    "displayName": "palayamkottai",
+    "annualRainfall": 762.0
+  },
+  {
+    "state": "tamil nadu",
+    "name": "pamban",
+    "displayName": "pamban",
+    "annualRainfall": 952.7
+  },
+  {
+    "state": "goa",
+    "name": "panjim",
+    "displayName": "panjim",
+    "annualRainfall": 2984.1
+  },
+  {
+    "state": "uttrakhand",
+    "name": "pantnagar",
+    "displayName": "pantnagar",
+    "annualRainfall": 1443.9
+  },
+  {
+    "state": "odisha",
+    "name": "paradeep",
+    "displayName": "paradeep",
+    "annualRainfall": 1731.4
+  },
+  {
+    "state": "odisha",
+    "name": "paralakhemundi",
+    "displayName": "paralakhemundi",
+    "annualRainfall": 1926.0
+  },
+  {
+    "state": "tamil nadu",
+    "name": "parangipettai",
+    "displayName": "parangipettai",
+    "annualRainfall": 1300.0
+  },
+  {
+    "state": "maharashtra",
+    "name": "parbhani",
+    "displayName": "parbhani",
+    "annualRainfall": 890.6
+  },
+  {
+    "state": "arunachal pradesh",
+    "name": "passighat",
+    "displayName": "passighat",
+    "annualRainfall": 4165.1
+  },
+  {
+    "state": "punjab",
+    "name": "patiala",
+    "displayName": "patiala",
+    "annualRainfall": 875.6
+  },
+  {
+    "state": "bihar",
+    "name": "patna",
+    "displayName": "patna",
+    "annualRainfall": 1077.6
+  },
+  {
+    "state": "chattisgarh",
+    "name": "pendra_road",
+    "displayName": "pendra road",
+    "annualRainfall": 1297.2
+  },
+  {
+    "state": "tamil nadu",
+    "name": "pariakulam",
+    "displayName": "pariakulam",
+    "annualRainfall": null
+  },
+  {
+    "state": "rajasthan",
+    "name": "phalodi",
+    "displayName": "phalodi",
+    "annualRainfall": 129.2
+  },
+  {
+    "state": "odisha",
+    "name": "phulbani",
+    "displayName": "phulbani",
+    "annualRainfall": 1390.8
+  },
+  {
+    "state": "rajasthan",
+    "name": "pilani",
+    "displayName": "pilani",
+    "annualRainfall": 456.0
+  },
+  {
+    "state": "gujrat",
+    "name": "porbandar",
+    "displayName": "porbandar",
+    "annualRainfall": 707.4
+  },
+  {
+    "state": "andaman & nicobar",
+    "name": "port_blair",
+    "displayName": "port blair",
+    "annualRainfall": 3113.4
+  },
+  {
+    "state": "uttar pradesh",
+    "name": "prayagraj",
+    "displayName": "prayagraj",
+    "annualRainfall": 915.4
+  },
+  {
+    "state": "puducherry",
+    "name": "puducherry",
+    "displayName": "puducherry",
+    "annualRainfall": 1398.1
+  },
+  {
+    "state": "kerela",
+    "name": "punalur",
+    "displayName": "punalur",
+    "annualRainfall": 2765.6
+  },
+  {
+    "state": "maharashtra",
+    "name": "pune",
+    "displayName": "pune",
+    "annualRainfall": 841.2
+  },
+  {
+    "state": "odisha",
+    "name": "puri",
+    "displayName": "puri",
+    "annualRainfall": 1565.7
+  },
+  {
+    "state": "bihar",
+    "name": "purnea",
+    "displayName": "purnea",
+    "annualRainfall": 1555.2
+  },
+  {
+    "state": "west bengal",
+    "name": "purulia",
+    "displayName": "purulia",
+    "annualRainfall": 1437.5
+  },
+  {
+    "state": "jammu & kashmir",
+    "name": "qazigund",
+    "displayName": "qazigund",
+    "annualRainfall": 1200.5
+  },
+  {
+    "state": "karnataka",
+    "name": "raichur",
+    "displayName": "raichur",
+    "annualRainfall": 716.6
+  },
+  {
+    "state": "west bengal",
+    "name": "raiganj",
+    "displayName": "raiganj",
+    "annualRainfall": 259.0
+  },
+  {
+    "state": "chattisgarh",
+    "name": "raipur",
+    "displayName": "raipur",
+    "annualRainfall": 1290.3
+  },
+  {
+    "state": "chattisgarh",
+    "name": "raipur_(mana)",
+    "displayName": "raipur (mana)",
+    "annualRainfall": 1248.8
+  },
+  {
+    "state": "madhya pradesh",
+    "name": "raisen",
+    "displayName": "raisen",
+    "annualRainfall": 1207.3
+  },
+  {
+    "state": "chattisgarh",
+    "name": "rajgarh",
+    "displayName": "rajgarh",
+    "annualRainfall": 421.0
+  },
+  {
+    "state": "gujrat",
+    "name": "rajkot",
+    "displayName": "rajkot",
+    "annualRainfall": 776.3
+  },
+  {
+    "state": "chattisgarh",
+    "name": "rajnandgaon",
+    "displayName": "rajnandgaon",
+    "annualRainfall": 952.9
+  },
+  {
+    "state": "telangana",
+    "name": "ramagundam",
+    "displayName": "ramagundam",
+    "annualRainfall": 1047.5
+  },
+  {
+    "state": "jharkhand",
+    "name": "ranchi",
+    "displayName": "ranchi",
+    "annualRainfall": 1404.8
+  },
+  {
+    "state": "assam",
+    "name": "rangia",
+    "displayName": "rangia",
+    "annualRainfall": 1757.1
+  },
+  {
+    "state": "madhya pradesh",
+    "name": "ratlam",
+    "displayName": "ratlam",
+    "annualRainfall": 925.2
+  },
+  {
+    "state": "maharashtra",
+    "name": "ratnagiri",
+    "displayName": "ratnagiri",
+    "annualRainfall": 3245.0
+  },
+  {
+    "state": "odisha",
+    "name": "rayagada",
+    "displayName": "rayagada",
+    "annualRainfall": 1400.0
+  },
+  {
+    "state": "andhra pradesh",
+    "name": "rentachintala",
+    "displayName": "rentachintala",
+    "annualRainfall": 557.5
+  },
+  {
+    "state": "madhya pradesh",
+    "name": "rewa",
+    "displayName": "rewa",
+    "annualRainfall": 1037.7
+  },
+  {
+    "state": "haryana",
+    "name": "rohtak",
+    "displayName": "rohtak",
+    "annualRainfall": 613.5
+  },
+  {
+    "state": "odisha",
+    "name": "rourkela",
+    "displayName": "rourkela",
+    "annualRainfall": 1390.0
+  },
+  {
+    "state": "bihar",
+    "name": "sabour",
+    "displayName": "sabour",
+    "annualRainfall": 1206.6
+  },
+  {
+    "state": "madhya pradesh",
+    "name": "sagar",
+    "displayName": "sagar",
+    "annualRainfall": 1192.1
+  },
+  {
+    "state": "west bengal",
+    "name": "sagar_island",
+    "displayName": "sagar island",
+    "annualRainfall": 1748.3
+  },
+  {
+    "state": "tamil nadu",
+    "name": "salem",
+    "displayName": "salem",
+    "annualRainfall": 992.5
+  },
+  {
+    "state": "rajasthan",
+    "name": "salt_lake",
+    "displayName": "salt lake",
+    "annualRainfall": 1679.0
+  },
+  {
+    "state": "odisha",
+    "name": "sambalpur",
+    "displayName": "sambalpur",
+    "annualRainfall": 1516.9
+  },
+  {
+    "state": "maharashtra",
+    "name": "sangli",
+    "displayName": "sangli",
+    "annualRainfall": 701.8
+  },
+  {
+    "state": "maharashtra",
+    "name": "satara",
+    "displayName": "satara",
+    "annualRainfall": 935.2
+  },
+  {
+    "state": "madhya pradesh",
+    "name": "satna",
+    "displayName": "satna",
+    "annualRainfall": 1095.2
+  },
+  {
+    "state": "rajasthan",
+    "name": "sawai_madhopur",
+    "displayName": "sawai madhopur",
+    "annualRainfall": 793.3
+  },
+  {
+    "state": "madhya pradesh",
+    "name": "seoni",
+    "displayName": "seoni",
+    "annualRainfall": 1177.7
+  },
+  {
+    "state": "uttar pradesh",
+    "name": "shahjahanpur",
+    "displayName": "shahjahanpur",
+    "annualRainfall": 959.7
+  },
+  {
+    "state": "karnataka",
+    "name": "shaktinagar_campus",
+    "displayName": "shaktinagar campus",
+    "annualRainfall": 1160.0
+  },
+  {
+    "state": "meghalaya",
+    "name": "shillong",
+    "displayName": "shillong",
+    "annualRainfall": 2099.9
+  },
+  {
+    "state": "himachal pradesh",
+    "name": "shimla",
+    "displayName": "shimla",
+    "annualRainfall": 1487.3
+  },
+  {
+    "state": "karnataka",
+    "name": "shimoga",
+    "displayName": "shimoga",
+    "annualRainfall": 882.3
+  },
+  {
+    "state": "karnataka",
+    "name": "shirali",
+    "displayName": "shirali",
+    "annualRainfall": 4086.7
+  },
+  {
+    "state": "madhya pradesh",
+    "name": "shivpuri",
+    "displayName": "shivpuri",
+    "annualRainfall": 789.5
+  },
+  {
+    "state": "madhya pradesh",
+    "name": "sidhi",
+    "displayName": "sidhi",
+    "annualRainfall": 1157.8
+  },
+  {
+    "state": "rajasthan",
+    "name": "sikar",
+    "displayName": "sikar",
+    "annualRainfall": 311.6
+  },
+  {
+    "state": "assam",
+    "name": "silchar",
+    "displayName": "silchar",
+    "annualRainfall": 3039.7
+  },
+  {
+    "state": "meghalaya",
+    "name": "sohra_(cherrapunjee)",
+    "displayName": "sohra (cherrapunjee)",
+    "annualRainfall": 11175.8
+  },
+  {
+    "state": "himachal pradesh",
+    "name": "solan_(nauni)",
+    "displayName": "solan (nauni)",
+    "annualRainfall": 1003.5
+  },
+  {
+    "state": "maharashtra",
+    "name": "solapur",
+    "displayName": "solapur",
+    "annualRainfall": 706.7
+  },
+  {
+    "state": "bihar",
+    "name": "sonepur",
+    "displayName": "sonepur",
+    "annualRainfall": 1454.0
+  },
+  {
+    "state": "rajasthan",
+    "name": "sriganganagar",
+    "displayName": "sriganganagar",
+    "annualRainfall": 311.9
+  },
+  {
+    "state": "jammu & kashmir",
+    "name": "srinagar",
+    "displayName": "srinagar",
+    "annualRainfall": 697.5
+  },
+  {
+    "state": "west bengal",
+    "name": "sriniketan",
+    "displayName": "sriniketan",
+    "annualRainfall": 1452.7
+  },
+  {
+    "state": "uttar pradesh",
+    "name": "sultanpur",
+    "displayName": "sultanpur",
+    "annualRainfall": 1006.7
+  },
+  {
+    "state": "odisha",
+    "name": "sundergarh",
+    "displayName": "sundergarh",
+    "annualRainfall": 1417.5
+  },
+  {
+    "state": "himachal pradesh",
+    "name": "sundernagar",
+    "displayName": "sundernagar",
+    "annualRainfall": 1411.0
+  },
+  {
+    "state": "bihar",
+    "name": "supaul",
+    "displayName": "supaul",
+    "annualRainfall": 42.8
+  },
+  {
+    "state": "gujrat",
+    "name": "surat",
+    "displayName": "surat",
+    "annualRainfall": 1243.4
+  },
+  {
+    "state": "gujrat",
+    "name": "surendranagar",
+    "displayName": "surendranagar",
+    "annualRainfall": 594.7
+  },
+  {
+    "state": "uttar pradesh",
+    "name": "suri",
+    "displayName": "suri",
+    "annualRainfall": 1474.6
+  },
+  {
+    "state": "sikkim",
+    "name": "tadong",
+    "displayName": "tadong",
+    "annualRainfall": 3116.5
+  },
+  {
+    "state": "odisha",
+    "name": "talcher",
+    "displayName": "talcher",
+    "annualRainfall": 131.22
+  },
+  {
+    "state": "uttrakhand",
+    "name": "tehri",
+    "displayName": "tehri",
+    "annualRainfall": 1074.0
+  },
+  {
+    "state": "assam",
+    "name": "tezpur",
+    "displayName": "tezpur",
+    "annualRainfall": 1749.0
+  },
+  {
+    "state": "tamil nadu",
+    "name": "thanjavur",
+    "displayName": "thanjavur",
+    "annualRainfall": 1051.1
+  },
+  {
+    "state": "kerela",
+    "name": "thiruvananthapuram",
+    "displayName": "thiruvananthapuram",
+    "annualRainfall": 1835.3
+  },
+  {
+    "state": "tamil nadu",
+    "name": "thoothukudi_new_port",
+    "displayName": "thoothukudi new port",
+    "annualRainfall": 682.4
+  },
+  {
+    "state": "kerela",
+    "name": "thrissur_(vellanikkara)",
+    "displayName": "thrissur (vellanikkara)",
+    "annualRainfall": 2732.9
+  },
+  {
+    "state": "madhya pradesh",
+    "name": "tikamgarh",
+    "displayName": "tikamgarh",
+    "annualRainfall": 726.3
+  },
+  {
+    "state": "assam",
+    "name": "tinsukia",
+    "displayName": "tinsukia",
+    "annualRainfall": 116.3
+  },
+  {
+    "state": "tamil nadu",
+    "name": "tiruchirapalli",
+    "displayName": "tiruchirapalli",
+    "annualRainfall": 860.3
+  },
+  {
+    "state": "andhra pradesh",
+    "name": "tirupati",
+    "displayName": "tirupati",
+    "annualRainfall": 1113.5
+  },
+  {
+    "state": "tamil nadu",
+    "name": "tirupattur",
+    "displayName": "tirupattur",
+    "annualRainfall": 847.1
+  },
+  {
+    "state": "tamil nadu",
+    "name": "tiruttani",
+    "displayName": "tiruttani",
+    "annualRainfall": 1109.1
+  },
+  {
+    "state": "odisha",
+    "name": "titlagarh",
+    "displayName": "titlagarh",
+    "annualRainfall": 1373.6
+  },
+  {
+    "state": "tamil nadu",
+    "name": "tondi",
+    "displayName": "tondi",
+    "annualRainfall": 917.1
+  },
+  {
+    "state": "andhra pradesh",
+    "name": "tuni",
+    "displayName": "tuni",
+    "annualRainfall": 1134.1
+  },
+  {
+    "state": "tamil nadu",
+    "name": "udagamandalam",
+    "displayName": "udagamandalam",
+    "annualRainfall": 1157.4
+  },
+  {
+    "state": "rajasthan",
+    "name": "udaipur",
+    "displayName": "udaipur",
+    "annualRainfall": 674.2
+  },
+  {
+    "state": "maharashtra",
+    "name": "udgir",
+    "displayName": "udgir",
+    "annualRainfall": 954.1
+  },
+  {
+    "state": "madhya pradesh",
+    "name": "ujjain",
+    "displayName": "ujjain",
+    "annualRainfall": 928.9
+  },
+  {
+    "state": "madhya pradesh",
+    "name": "umaria",
+    "displayName": "umaria",
+    "annualRainfall": 1178.6
+  },
+  {
+    "state": "himachal pradesh",
+    "name": "una",
+    "displayName": "una",
+    "annualRainfall": 1132.8
+  },
+  {
+    "state": "gujrat",
+    "name": "vadodra",
+    "displayName": "vadodra",
+    "annualRainfall": 1007.1
+  },
+  {
+    "state": "gujrat",
+    "name": "vallabh_vidya_nagar",
+    "displayName": "vallabh vidya nagar",
+    "annualRainfall": 833.3
+  },
+  {
+    "state": "bihar",
+    "name": "valmiki_nagar",
+    "displayName": "valmiki nagar",
+    "annualRainfall": 1832.0
+  },
+  {
+    "state": "tamil nadu",
+    "name": "valparai",
+    "displayName": "valparai",
+    "annualRainfall": 3537.9
+  },
+  {
+    "state": "gujrat",
+    "name": "valsad",
+    "displayName": "valsad",
+    "annualRainfall": 1751.4
+  },
+  {
+    "state": "uttar pradesh",
+    "name": "varanasi",
+    "displayName": "varanasi",
+    "annualRainfall": 985.9
+  },
+  {
+    "state": "uttar pradesh",
+    "name": "varanasi_(babatpur)",
+    "displayName": "varanasi (babatpur)",
+    "annualRainfall": 976.8
+  },
+  {
+    "state": "tamil nadu",
+    "name": "vellore",
+    "displayName": "vellore",
+    "annualRainfall": 1050.1
+  },
+  {
+    "state": "gujrat",
+    "name": "veraval",
+    "displayName": "veraval",
+    "annualRainfall": 877.1
+  },
+  {
+    "state": "andhra pradesh",
+    "name": "visakhapatnam",
+    "displayName": "visakhapatnam",
+    "annualRainfall": 1113.1
+  },
+  {
+    "state": "maharashtra",
+    "name": "wardha",
+    "displayName": "wardha",
+    "annualRainfall": 975.0
+  },
+  {
+    "state": "maharashtra",
+    "name": "washim",
+    "displayName": "washim",
+    "annualRainfall": 1132.0
+  },
+  {
+    "state": "maharashtra",
+    "name": "yavatmal",
+    "displayName": "yavatmal",
+    "annualRainfall": 977.2
+  },
+  {
+    "state": "tamil nadu",
+    "name": "yercaud",
+    "displayName": "yercaud",
+    "annualRainfall": 1014.0
+  }
+]
