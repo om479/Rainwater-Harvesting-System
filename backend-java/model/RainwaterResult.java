@@ -82,5 +82,18 @@ public class RainwaterResult {
     public double getPaybackPeriod() {
         return paybackPeriod;
     }
-}
 
+    @Override
+    public String toString() {
+        return
+        "Annual Harvested Water: " + annualHarvestedWater + " L\n" +
+        "Daily Water Need: " + dailyWaterNeed + " L\n" +
+        "Annual Water Need: " + annualWaterNeed + " L\n" +
+        "Storage Tank Capacity: " + storageTankCapacity + " L\n" +
+        "Storage Decision: " + storageDecision + "\n" +
+        "Storage Tank Type: " + storageTankType + "\n" +
+        "Annual Savings: ₹" + annualSavings + "\n" +
+        "Total System Cost: ₹" + totalSystemCost + "\n" +
+        "Payback Period: " + paybackPeriod + " years";
+    }
+}

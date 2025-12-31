@@ -1,10 +1,12 @@
 package service;
 
+import dao.ReferenceDataDAO;
 import model.RainwaterInput;
 import model.RainwaterResult;
 import model.StorageTankType;
 
 public class RainwaterService {
+     private final ReferenceDataDAO referenceDataDAO = new ReferenceDataDAO();
 
     public RainwaterResult calculateResults(RainwaterInput input) {
 
@@ -17,9 +19,9 @@ public class RainwaterService {
         }
 
         // ---------------- RUNOFF COEFFICIENT ----------------
-        double runoffCoefficient = getRunoffCoefficient(
-                input.getRoofMaterial()
-        );
+        double runoffCoefficient =
+        referenceDataDAO.getRunoffCoefficient(input.getRoofMaterial());
+
 
         // ---------------- WATER AVAILABLE FROM ROOF ----------------
         double rainfallMeters = input.getAnnualRainfallMm() / 1000;
@@ -116,23 +118,4 @@ public class RainwaterService {
                 paybackPeriod
         );
     }
-
-    // ---------------- RUNOFF COEFFICIENT MAPPING ----------------
-    private double getRunoffCoefficient(String material) {
-        switch (material.toUpperCase()) {
-            case "GI":
-            case "GI SHEET":
-                return 0.9;
-            case "ASBESTOS":
-                return 0.8;
-            case "TILED":
-                return 0.75;
-            case "CONCRETE":
-                return 0.7;
-            default:
-                throw new IllegalArgumentException("Invalid roof material");
-        }
-    }
 }
-
-

@@ -1,24 +1,29 @@
 package controller;
 
+import dao.ReferenceDataDAO;
 import model.RainwaterInput;
 import model.RainwaterResult;
 import service.RainwaterService;
 
 public class RainwaterController {
 
-    private RainwaterService service = new RainwaterService();
+    private final RainwaterService service = new RainwaterService();
+    private final ReferenceDataDAO referenceDataDAO = new ReferenceDataDAO();
 
     public RainwaterResult getResult(
             String state,
             String city,
-            int year,
             double roofArea,
             int familyMembers,
             double perCapitaWaterUsage,
-            String roofMaterial,
-            double annualRainfallMm
+            String roofMaterial
     ) {
+         // 1️⃣ Fetch rainfall from DB
+        int cityId = referenceDataDAO.getCityId(state, city);
+        double annualRainfallMm =
+                referenceDataDAO.getAnnualRainfall(cityId);
 
+        // 2️⃣ Create input with VALID rainfall
         RainwaterInput input = new RainwaterInput(
                 state,
                 city,
@@ -29,7 +34,7 @@ public class RainwaterController {
                 annualRainfallMm
         );
 
+        // 3️⃣ Calculate result
         return service.calculateResults(input);
     }
 }
-

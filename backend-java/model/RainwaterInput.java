@@ -34,4 +34,3 @@ public class RainwaterInput {
     public String getRoofMaterial() { return roofMaterial; }
     public double getAnnualRainfallMm() { return annualRainfallMm; }
 }
-
